@@ -1,0 +1,271 @@
+[35m[1mScanning dependencies of target _patchwork_generate_messages_check_deps_ground_estimate[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target _patchwork_generate_messages_check_deps_node[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target _patchwork_generate_messages_check_deps_ground_estimate
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target _patchwork_generate_messages_check_deps_node
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target patchwork_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target patchwork_generate_messages_eus[0m
+[35m[1mScanning dependencies of target patchwork_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target patchwork_generate_messages_cpp[0m
+[ 25%] [34m[1mGenerating Python from MSG patchwork/ground_estimate[0m
+[ 25%] [34m[1mGenerating EusLisp code from patchwork/ground_estimate.msg[0m
+[ 25%] [34m[1mGenerating Python from MSG patchwork/node[0m
+[ 25%] [34m[1mGenerating EusLisp code from patchwork/node.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from patchwork/node.msg[0m
+[ 30%] [34m[1mGenerating EusLisp manifest code for patchwork[0m
+[35m[1mScanning dependencies of target patchwork_generate_messages_lisp[0m
+[ 35%] [34m[1mGenerating C++ code from patchwork/node.msg[0m
+[ 40%] [34m[1mGenerating Lisp code from patchwork/node.msg[0m
+[ 45%] [34m[1mGenerating Javascript code from patchwork/ground_estimate.msg[0m
+[ 50%] [34m[1mGenerating Lisp code from patchwork/ground_estimate.msg[0m
+[ 55%] [34m[1mGenerating C++ code from patchwork/ground_estimate.msg[0m
+[ 55%] Built target patchwork_generate_messages_nodejs
+[ 55%] Built target patchwork_generate_messages_lisp
+[ 55%] Built target patchwork_generate_messages_cpp
+[35m[1mScanning dependencies of target offline_own_data[0m
+[35m[1mScanning dependencies of target pub_for_legoloam[0m
+[35m[1mScanning dependencies of target ros_kitti[0m
+[35m[1mScanning dependencies of target offline_kitti[0m
+[ 60%] [34m[1mGenerating Python msg __init__.py for patchwork[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/offline_own_data.dir/nodes/offline_own_data.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/offline_kitti.dir/nodes/offline_kitti.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/pub_for_legoloam.dir/nodes/pub_for_legoloam.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/ros_kitti.dir/nodes/ros_kitti.cpp.o[0m
+[ 80%] Built target patchwork_generate_messages_py
+[ 80%] Built target patchwork_generate_messages_eus
+[35m[1mScanning dependencies of target patchwork_generate_messages[0m
+[ 80%] Built target patchwork_generate_messages
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/next_prior.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/next.hpp:17[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/aux_/push_front.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list0.hpp:19[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list10.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list20.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list.hpp:36[m[K,
+                 from [01m[K/usr/include/boost/math/policies/policy.hpp:9[m[K,
+                 from [01m[K/usr/include/boost/math/policies/error_handling.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:14[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/serialization.h:34[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/include/patchwork/node.h:14[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/offline_kitti.cpp:7[m[K:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:68:36:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+   68 |                                   ([01;35m[Kuint16_t[m[K, label, label)
+      |                                    [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLPointField.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/conversions.h:46[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_conversions/pcl_conversions.h:44[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/patchwork.hpp:10[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/offline_kitti.cpp:8[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/next_prior.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/next.hpp:17[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/aux_/push_front.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list0.hpp:19[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list10.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list20.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list.hpp:36[m[K,
+                 from [01m[K/usr/include/boost/math/policies/policy.hpp:9[m[K,
+                 from [01m[K/usr/include/boost/math/policies/error_handling.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:14[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/serialization.h:34[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/include/patchwork/node.h:14[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/offline_kitti.cpp:7[m[K:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:69:36:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+   69 |                                   ([01;35m[Kuint16_t[m[K, id, id))
+      |                                    [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLPointField.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/conversions.h:46[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_conversions/pcl_conversions.h:44[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/patchwork.hpp:10[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/offline_kitti.cpp:8[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/next_prior.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/next.hpp:17[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/aux_/push_front.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list0.hpp:19[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list10.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list20.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list.hpp:36[m[K,
+                 from [01m[K/usr/include/boost/math/policies/policy.hpp:9[m[K,
+                 from [01m[K/usr/include/boost/math/policies/error_handling.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:14[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/serialization.h:34[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/include/patchwork/node.h:14[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/ros_kitti.cpp:3[m[K:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:68:36:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+   68 |                                   ([01;35m[Kuint16_t[m[K, label, label)
+      |                                    [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLPointField.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/conversions.h:46[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_conversions/pcl_conversions.h:44[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/patchwork.hpp:10[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/ros_kitti.cpp:4[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/next_prior.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/next.hpp:17[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/aux_/push_front.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list0.hpp:19[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list10.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list20.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list.hpp:36[m[K,
+                 from [01m[K/usr/include/boost/math/policies/policy.hpp:9[m[K,
+                 from [01m[K/usr/include/boost/math/policies/error_handling.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:14[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/serialization.h:34[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/include/patchwork/node.h:14[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/ros_kitti.cpp:3[m[K:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:69:36:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+   69 |                                   ([01;35m[Kuint16_t[m[K, id, id))
+      |                                    [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLPointField.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/conversions.h:46[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_conversions/pcl_conversions.h:44[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/patchwork.hpp:10[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/ros_kitti.cpp:4[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/tools/kitti_loader.hpp:4[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/offline_kitti.cpp:10[m[K:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:[m[K In function ‘[01m[Kint save_all_labels(const pcl::PointCloud<PointXYZILID>&, std::string, std::string, int)[m[K’:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:239:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  239 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+In file included from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/tools/kitti_loader.hpp:4[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/ros_kitti.cpp:7[m[K:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:[m[K In function ‘[01m[Kint save_all_labels(const pcl::PointCloud<PointXYZILID>&, std::string, std::string, int)[m[K’:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:239:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  239 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/next_prior.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/next.hpp:17[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/aux_/push_front.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list0.hpp:19[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list10.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list20.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list.hpp:36[m[K,
+                 from [01m[K/usr/include/boost/math/policies/policy.hpp:9[m[K,
+                 from [01m[K/usr/include/boost/math/policies/error_handling.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:14[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/serialization.h:34[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/include/patchwork/node.h:14[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/pub_for_legoloam.cpp:3[m[K:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:68:36:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+   68 |                                   ([01;35m[Kuint16_t[m[K, label, label)
+      |                                    [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLPointField.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/conversions.h:46[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_conversions/pcl_conversions.h:44[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/patchwork.hpp:10[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/pub_for_legoloam.cpp:5[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/preprocessor/tuple/elem.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/preprocessor/arithmetic/add.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:66[m[K,
+                 from [01m[K/usr/include/boost/mpl/aux_/na_spec.hpp:28[m[K,
+                 from [01m[K/usr/include/boost/mpl/next_prior.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/next.hpp:17[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/aux_/push_front.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list0.hpp:19[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list10.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list/list20.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/mpl/list.hpp:36[m[K,
+                 from [01m[K/usr/include/boost/math/policies/policy.hpp:9[m[K,
+                 from [01m[K/usr/include/boost/math/policies/error_handling.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:14[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/serialization.h:34[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/include/patchwork/node.h:14[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/pub_for_legoloam.cpp:3[m[K:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:69:36:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing uint16_t = uint16_t[m[K’ is deprecated: use std::uint16_t instead of pcl::uint16_t [[01;35m[K-Wdeprecated-declarations[m[K]
+   69 |                                   ([01;35m[Kuint16_t[m[K, id, id))
+      |                                    [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/PCLPointField.h:10[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/conversions.h:46[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_conversions/pcl_conversions.h:44[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/patchwork.hpp:10[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/pub_for_legoloam.cpp:5[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/pcl_macros.h:94:9:[m[K [01;36m[Knote: [m[Kdeclared here
+   94 |   using [01;36m[Kuint16_t[m[K [[deprecated("use std::uint16_t instead of pcl::uint16_t")]] = std::uint16_t;
+      |         [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/tools/kitti_loader.hpp:4[m[K,
+                 from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/pub_for_legoloam.cpp:8[m[K:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:[m[K In function ‘[01m[Kint save_all_labels(const pcl::PointCloud<PointXYZILID>&, std::string, std::string, int)[m[K’:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/patchwork/utils.hpp:239:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  239 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+In file included from [01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/nodes/offline_kitti.cpp:10[m[K:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/tools/kitti_loader.hpp:[m[K In member function ‘[01m[Kint KittiLoader::get_cloud(size_t, pcl::PointCloud<PointT>&) const [with T = PointXYZILID][m[K’:
+[01m[K/home/cnsa_hao/BIN/Test02_ego/src/patchwork/include/tools/kitti_loader.hpp:44:21:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+   44 |         std::string [01;35m[Kfilename[m[K = (boost::format("%s/%06d.bin") % pc_path_ % idx).str();
+      |                     [01;35m[K^~~~~~~~[m[K
+[ 85%] [32m[1mLinking CXX executable /home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/lib/patchwork/offline_own_data[0m
+[ 85%] Built target offline_own_data
+[ 90%] [32m[1mLinking CXX executable /home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/lib/patchwork/ros_kitti[0m
+[ 95%] [32m[1mLinking CXX executable /home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/lib/patchwork/offline_kitti[0m
+[ 95%] Built target ros_kitti
+[100%] [32m[1mLinking CXX executable /home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/lib/patchwork/pub_for_legoloam[0m
+[100%] Built target offline_kitti
+[100%] Built target pub_for_legoloam

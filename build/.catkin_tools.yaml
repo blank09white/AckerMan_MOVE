@@ -1,0 +1,6 @@
+devel_space: /home/cnsa_hao/BIN/Test02_ego/devel
+install: false
+install_space: /home/cnsa_hao/BIN/Test02_ego/install
+profile: default
+source_space: /home/cnsa_hao/BIN/Test02_ego/src
+workspace: /home/cnsa_hao/BIN/Test02_ego

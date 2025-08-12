@@ -1,0 +1,1 @@
+/home/cnsa_hao/BIN/Test02_ego/devel/.private/catkin_tools_prebuild/local_setup.sh

@@ -1,0 +1,13 @@
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/./local_setup.bash
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/./env.sh
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/./_setup_util.py
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/./setup.bash
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/./local_setup.zsh
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/./local_setup.fish
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/./setup.fish
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/./setup.sh
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/./local_setup.sh
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/./setup.zsh
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/cnsa_hao/BIN/Test02_ego/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

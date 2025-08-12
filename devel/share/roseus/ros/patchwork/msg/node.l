@@ -1,0 +1,1 @@
+/home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/share/roseus/ros/patchwork/msg/node.l

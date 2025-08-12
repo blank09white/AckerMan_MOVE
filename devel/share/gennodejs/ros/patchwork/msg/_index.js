@@ -1,0 +1,1 @@
+/home/cnsa_hao/BIN/Test02_ego/devel/.private/patchwork/share/gennodejs/ros/patchwork/msg/_index.js
